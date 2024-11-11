@@ -1,0 +1,5 @@
+{
+    "ConnectionStrings": {
+      "DefaultConnection": "Server=ASHOKTAMANG;Database=TaskManagerDB;Trusted_Connection=True;Encrypt=True;TrustServerCertificate=True;"
+    }
+  }  
